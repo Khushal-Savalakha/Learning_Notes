@@ -20,6 +20,13 @@ Delve into a well-curated set of JavaScript notes, covering fundamental and adva
 
 ---
 
+## Django REST Framework Notes 💻
+
+Dive into comprehensive notes on the Django REST Framework, with practical code examples and explanations for both fundamental and advanced backend development concepts.
+
+📖 **Access Notes Here**: [Django REST Framework Notes](https://www.notion.so/Django-REST-Framework-fffa69a1e0b78152ac74f9e0ac66e7b5?pvs=4)
+
+---
 ### Note on PDF Quality 📄
 
 The notes are also available in PDF format for offline reading. However, please note that:
