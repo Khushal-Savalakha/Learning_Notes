@@ -4,34 +4,23 @@ A comprehensive collection of notes across multiple subjects. These notes includ
 
 ---
 
-## Django Notes 🛠️
+## 📑 Table of Notes
 
-Explore detailed insights on Django, including practical code snippets, step-by-step tutorials, and conceptual explanations that help solidify your understanding of this powerful web framework.
-
-📖 **Access Notes Here**: [Django Notes](https://www.notion.so/Django-fffa69a1e0b781679fb1c42c3107abd2?pvs=4)
-
----
-
-## JavaScript Notes 💻
-
-Delve into a well-curated set of JavaScript notes, covering fundamental and advanced concepts with code examples to strengthen your front-end development skills.
-
-📖 **Access Notes Here**: [JavaScript Notes](https://www.notion.so/Java-Script-fffa69a1e0b781e993a9ea6c66c83607?pvs=4)
+| **Subject**                       | **Description**                                                                                                         | **Access Link**                                                                                                              |
+|----------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Django Notes**               | Detailed insights on Django, including practical code snippets and step-by-step tutorials for learning the web framework. | [Django Notes](https://www.notion.so/Django-fffa69a1e0b781679fb1c42c3107abd2?pvs=4)                                          |
+| **JavaScript Notes**            | Notes covering fundamental and advanced JavaScript concepts, with examples to enhance front-end development.     | [JavaScript Notes](https://www.notion.so/Java-Script-fffa69a1e0b781e993a9ea6c66c83607?pvs=4)                                 |
+| **Django REST Framework Notes** | Comprehensive notes on Django REST Framework, featuring practical examples and detailed explanations of backend concepts. | [Django REST Framework Notes](https://www.notion.so/Django-REST-Framework-fffa69a1e0b78152ac74f9e0ac66e7b5?pvs=4)            |
 
 ---
-
-## Django REST Framework Notes 💻
-
-Dive into comprehensive notes on the Django REST Framework, with practical code examples and explanations for both fundamental and advanced backend development concepts.
-
-📖 **Access Notes Here**: [Django REST Framework Notes](https://www.notion.so/Django-REST-Framework-fffa69a1e0b78152ac74f9e0ac66e7b5?pvs=4)
-
----
-### Note on PDF Quality 📄
+## Note on PDF Quality 📄
 
 The notes are also available in PDF format for offline reading. However, please note that:
 - **PDF quality may be low**, and some code snippets may be truncated due to conversion issues.
-- For the best experience, we recommend viewing the notes directly on Notion.
+- For the best experience, I recommend viewing the notes directly on Notion.
+
+### 📡 Want Live Updates?
+To ensure you're always accessing the latest version of the notes, including any updates or corrections, it's best to refer to the Notion links. This way, you'll have access to live updates as the notes evolve.
 
 ---
 
