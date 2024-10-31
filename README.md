@@ -7,12 +7,14 @@ A comprehensive collection of notes across multiple subjects. These notes includ
 ## 📑 Table of Notes
 
 | **Subject**                       | **Description**                                                                                                         | **Access Link**                                                                                                              |
-|----------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Django Notes**               | Detailed insights on Django, including practical code snippets and step-by-step tutorials for learning the web framework. | [Django Notes](https://www.notion.so/Django-fffa69a1e0b781679fb1c42c3107abd2?pvs=4)                                          |
-| **JavaScript Notes**            | Notes covering fundamental and advanced JavaScript concepts, with examples to enhance front-end development.     | [JavaScript Notes](https://www.notion.so/Java-Script-fffa69a1e0b781e993a9ea6c66c83607?pvs=4)                                 |
-| **Django REST Framework Notes** | Comprehensive notes on Django REST Framework, featuring practical examples and detailed explanations of backend concepts. | [Django REST Framework Notes](https://www.notion.so/Django-REST-Framework-fffa69a1e0b78152ac74f9e0ac66e7b5?pvs=4)            |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Django Notes**                  | Detailed insights on Django, including practical code snippets and step-by-step tutorials for learning the web framework. | [Django Notes](https://www.notion.so/Django-fffa69a1e0b781679fb1c42c3107abd2?pvs=4)                                          |
+| **JavaScript Notes**              | Notes covering fundamental and advanced JavaScript concepts, with examples to enhance front-end development.             | [JavaScript Notes](https://www.notion.so/Java-Script-fffa69a1e0b781e993a9ea6c66c83607?pvs=4)                                 |
+| **Django REST Framework Notes**   | Comprehensive notes on Django REST Framework, featuring practical examples and detailed explanations of backend concepts. | [Django REST Framework Notes](https://www.notion.so/Django-REST-Framework-fffa69a1e0b78152ac74f9e0ac66e7b5?pvs=4)            |
+| **Express.js Notes**              | Foundational notes on Express.js, covering essential concepts and code examples to assist with backend development.     | [Express.js Notes](https://www.notion.so/Express-Js-fffa69a1e0b781e0874ff18d8635c98d?pvs=4)                                  |
 
 ---
+
 ## Note on PDF Quality 📄
 
 The notes are also available in PDF format for offline reading. However, please note that:
